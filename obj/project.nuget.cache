@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "kVSojYG9phUpeK936KAODVHk0Fm//2fjubcs4BvlAUeuejYpju5ctdNf18meXPXM3FLx3d35if6e+CS2OswBJw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kacper\\source\\repos\\Snake123\\Snake123.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\Kacper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
